@@ -1,2 +1,4 @@
 spring.datasource.username=root
 spring.datasurce.password=pkkoshta
+spring.datasource.driver-classname=com.mysql.cj.Driver
+spring.dasource.url=jdbc:///mysql
